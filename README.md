@@ -4,7 +4,7 @@
 
 Basée en périphérie de Paris, je recherche actuellement un poste en alternance en tant que développeuse web.
 
-- 🌟 J'étudie actuellement chez Openclassrooms en vue d'obtenir le titre pro "Développeuse Web" (niveau 5, Bac +2).
+- 🌟 J'ai terminé la formation de "Développeuse Web" (niveau 5, Bac +2) d'Openclassrooms.
 
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une entreprise dans laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
