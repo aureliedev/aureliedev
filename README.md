@@ -2,7 +2,7 @@
 
 ### Développeuse web
 
-Basée en périphérie de Paris, je recherche actuellement un poste en alternance en tant que développeuse web.
+Basée en périphérie de Paris, je recherche actuellement un poste en tant que développeuse web.
 
 - 🌟 J'ai terminé la formation de "Développeuse Web" (niveau 5, Bac +2) d'Openclassrooms.
 
