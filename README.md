@@ -4,8 +4,6 @@
 
 Basée en périphérie de Paris, je recherche actuellement un poste en tant que développeuse web.
 
-- 🌟 J'ai terminé la formation de "Développeuse Web" (niveau 5, Bac +2) d'Openclassrooms.
-
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une entreprise dans laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
 ------------
@@ -29,6 +27,5 @@ Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvell
 
 # Contact
 <div>
-	<a href="mailto:menin.aurelie@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 	<a href='https://www.linkedin.com/in/aur%C3%A9lie-menin/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </div>
