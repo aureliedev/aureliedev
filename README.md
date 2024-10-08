@@ -27,5 +27,5 @@ Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvell
 
 # Contact
 <div>
-	<a href='https://www.linkedin.com/in/aur%C3%A9lie-menin/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+	<a href='https://www.linkedin.com/in/aurelieml/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </div>
